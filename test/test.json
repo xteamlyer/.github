@@ -1,0 +1,67 @@
+[
+	{
+		"model": "RMX3706",
+		"version": "14.0.0.601-CN",
+		"ota": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-90457138d710a585b3bc7ec4b8e6a30c/component-ota/24/04/11/125a48e052f047f6b651db2223a67874.zip"
+	},
+	{
+		"model": "RMX3708",
+		"version": "14.0.0.601-CN",
+		"ota": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-ecc3a20be045e3431299e7510e9d024f/component-ota/24/04/11/ae90a0e596b640f297bd1312ecdc8102.zip"
+	},
+	{
+		"model": "RMX3706",
+		"version": "14.0.0.411-CN",
+		"ota": "https://gauss-compotacostauto-cn.allawnfs.com/remove-c71351fcac7229e4413d997f3a51ab54/component-ota/24/03/12/19aa7fda942c43debf77594fd4c93164.zip"
+	},
+	{
+		"model": "RMX3708",
+		"version": "14.0.0.411-CN",
+		"ota": "https://gauss-compotacostauto-cn.allawnfs.com/remove-9a9564f3183fa4b2c3c0089bed53efda/component-ota/24/03/12/8f6b5b995449417681acc5f86d59592c.zip"
+	},
+	{
+		"model": "RMX3709",
+		"version": "14.0.0.601-RU",
+		"ota": "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-bd7d9737b42eff22b2c91e1028c9ff6c/component-ota/24/04/11/0ce94989b47445b093987863f4ce7eeb.zip"
+	},
+	{
+		"model": "RMX3709",
+		"version": "14.0.0.411-RU",
+		"ota": "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-00ab8cc4f1eddfba7cedfef916517711/component-ota/24/03/12/0f42ee8484cc453693a0128a035ceeaa.zip"
+	},
+	{
+		"model": "RMX3709",
+		"version": "14.0.0.601-TR",
+		"ota": "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-cfabd71889cd729fa919b1026b91b328/component-ota/24/04/11/424749fb77764b3dac175318cf00fa09.zip"
+	},
+	{
+		"model": "RMX3709",
+		"version": "14.0.0.601-SA",
+		"ota": "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-b5787d2ec94acd81c6886c501126f2c8/component-ota/24/04/11/a3805a79b78b4e10a36779372121760c.zip"
+	},
+	{
+		"model": "RMX3709",
+		"version": "14.0.0.601-MEA",
+		"ota": "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-3bc3bcc33f78f14b1bf8a44c69e71a30/component-ota/24/04/11/889bd4a7f1674442ac637eaf78adc3de.zip"
+	},
+  {
+		"model": "RMX3700",
+		"version": "14.0.0.601-CN",
+		"ota": "https://gauss-compotacostauto-cn.allawnfs.com/remove-f84cb56d6df489228f8d132fee1bed6f/component-ota/24/04/17/7d1d8cc5ec3f44028cfd1b341d0b3928.zip"
+	},
+  {
+		"model": "RMX3701",
+		"version": "14.0.0.601-MEA",
+		"ota": "https://gauss-componentotacostmanual-eu.allawnofs.com/remove-16f118b38379862cde50a874fd283a27/component-ota/24/04/17/69ef870b4f9d43b08400fd6f9ab78b9f.zip"
+	},
+  {
+		"model": "RMX3823",
+		"version": "14.0.0.211-CN",
+		"ota": "https://gauss-compotacostauto-cn.allawnfs.com/remove-5be0bc25fe284c98798a6e6a548d7cc7/component-ota/24/02/29/56107d4451494a369160f78f7eae7e14.zip"
+	},
+  {
+		"model": "RMX3820",
+		"version": "14.0.0.211-CN",
+		"ota": "https://gauss-compotacostauto-cn.allawnfs.com/remove-6f5307d67b8dbbb91ebd53eee4332f0c/component-ota/24/02/29/4e2d6bba404a40a282e5c1708ea1121c.zip"
+	}
+]
